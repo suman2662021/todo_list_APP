@@ -1,2 +1,3 @@
 # todo_list_APP
-we make this todo list using HTML, CSS and JavaScript
+todo list app using HTML, CSS and JavaScript
+
